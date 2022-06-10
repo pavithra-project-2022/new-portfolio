@@ -14,7 +14,7 @@ export const Blogs = [
     {
         id:2,
         name:"YouTube Clone Application",
-        tags:["react","sass","mongodb"],
+        tags:["react","sass","mongodb","restAPI"],
         date:"5 May 2022",
         imgSrc:"CV/youtubeclone.jpeg",
         link:"https://my-utube-app-new.web.app/"
@@ -29,19 +29,19 @@ export const Blogs = [
     },
     {
         id:4,
-        name:"coming soon",
-        tags:["react","redux","framer-motion"],
-        date:"coming soon",
-        imgSrc:"coming soon",
-        link:"www.google.com"
+        name:"Travel-Advisor-Application",
+        tags:["react","material UI","Rest API"],
+        date:"05 Jun 2022",
+        imgSrc:"CV/travelapp.jpeg",
+        link:"https://travel-advisor-application-new.netlify.app/"
     },
     {
         id:5,
-        name:"coming soon",
-        tags:["react","reactJS","web-development"],
-        date:"coming soon",
-        imgSrc:"coming soon",
-        link:"www.google.com"
+        name:"Hotel Booking Application",
+        tags:["react","fontawesome","nodejs","mongodb"],
+        date:"7 Jun 2022",
+        imgSrc:"CV/bookingapp.jpeg",
+        link:"https://hotel-reservation-application.netlify.app/"
     },
     // {
     //     id:6,
