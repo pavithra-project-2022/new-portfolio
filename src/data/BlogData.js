@@ -24,7 +24,7 @@ export const Blogs = [
         name:"Video Chat Application",
         tags:["react","Node Js","material ui"],
         date:"20 May 2022",
-        imgSrc:"CV/videochatnew.png",
+        imgSrc:"CV/videochatnew.jpeg",
         link:"https://video-calling-application-site.netlify.app/"
     },
     {
