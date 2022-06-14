@@ -12,7 +12,7 @@ export const Blogs = [
   {
     id: 2,
     name: "Hotel Booking Application",
-    tags: ["react","fontawesome","nodejs","mongodb"],
+    tags: ["react","FA","nodejs","mongodb"],
     date: "7 Jun 2022",
     imgSrc: "CV/bookingapp.jpeg",
     link: "https://hotel-reservation-application.netlify.app/",
