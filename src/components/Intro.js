@@ -110,7 +110,7 @@ const Intro = () => {
                     <h2>Hi,</h2>
                     <h5>I'm Pavithra Sethuraman</h5>
                     <h6 ><span ref={textRef}>!!!</span></h6>
-                    <a href='https://drive.google.com/file/d/1pWkf2U7Nawyc8pSYUR5lEK2TvNxWscZw/view?usp=sharing' target="_blank"><span style={{fontSize:"15px"}}>View Cv</span></a>
+                    <a href='https://drive.google.com/file/d/1MIR0xrjuPUh83mqAuQtZr6-0N7FKzCqw/view?usp=sharing' target="_blank"><span style={{fontSize:"15px"}}>View Cv</span></a>
                 </Text>
             </SubBox>
             <SubBox>

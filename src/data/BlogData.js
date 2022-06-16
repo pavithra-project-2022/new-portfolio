@@ -64,15 +64,15 @@ export const Blogs = [
     link: "https://video-calling-application-site.netlify.app/",
     git:"https://github.com/pavithra-project-2022/VideoChatApp"
   },
+  {
+    id: 8,
+    name: "Stack Overflow Clone Application",
+    tags: ["react", "css","bootstrap", "nodejs","mongodb"],
+    date: "30 May 2022",
+    imgSrc: "CV/stack.jpeg",
+    link: "https://stackoverflow-app.netlify.app/",
+    git:"https://github.com/pavithra-project-2022/StackOverFlow-Frontend"
+  },
 
-  
 
-  // {
-  //     id:8,
-  //     name:"How to create Sidebar navigation menu in ReactJS with react router and framer-motion",
-  //     tags:["react","framer-motion","styled-components"],
-  //     date:"26 May, 2021",
-  //     imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
-  //     link:"https://dev.to/codebucks/build-sidebar-navigation-menu-in-reactjs-with-react-router-and-framer-motion-for-cool-page-transition-effects-4bc3"
-  // },
 ];
