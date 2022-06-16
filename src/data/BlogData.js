@@ -7,7 +7,7 @@ export const Blogs = [
     tags: ["react", "sass", "node js", "mongodb"],
     date: "13 April, 2022",
     imgSrc: "CV/neflixclone.jpeg",
-    link: "https://netflix-clone-application-2022.netlify.app/",
+    link: "https://mynetflix-new.netlify.app/",
   },
   {
     id: 2,
