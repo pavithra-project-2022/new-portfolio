@@ -8,6 +8,7 @@ export const Blogs = [
     date: "13 April, 2022",
     imgSrc: "CV/neflixclone.jpeg",
     link: "https://mynetflix-new.netlify.app/",
+    git:"https://github.com/pavithra-project-2022/Netflix-Frontend"
   },
   {
     id: 2,
@@ -16,6 +17,7 @@ export const Blogs = [
     date: "7 Jun 2022",
     imgSrc: "CV/bookingapp.jpeg",
     link: "https://hotel-reservation-application.netlify.app/",
+    git:"https://github.com/pavithra-project-2022/Hotel-Reservation-App-Frontend"
   },
   {
     id: 3,
@@ -24,6 +26,7 @@ export const Blogs = [
     date: "05 Jun 2022",
     imgSrc: "CV/travelapp.jpeg",
     link: "https://travel-advisor-application-new.netlify.app/",
+    git:"https://github.com/pavithra-project-2022/Travel-Adviser-App"
   },
   {
     id: 4,
@@ -32,6 +35,7 @@ export const Blogs = [
     date: "30 April, 2021",
     imgSrc: "CV/posapp.jpeg",
     link: "https://pos-application.netlify.app/",
+    git:"https://github.com/pavithra-project-2022/POSApp-Frontend"
   },
   {
     id: 5,
@@ -40,6 +44,7 @@ export const Blogs = [
     date: "10 Jun, 2021",
     imgSrc: "CV/blogapp.jpeg",
     link: "https://myblog-application.netlify.app/",
+    git:"https://github.com/pavithra-project-2022/BlogApp-Frontend"
   },
   {
     id: 6,
@@ -48,6 +53,7 @@ export const Blogs = [
     date: "5 May 2022",
     imgSrc: "CV/youtubeclone.jpeg",
     link: "https://my-utube-app-new.web.app/",
+    git:"https://github.com/pavithra-project-2022/YoutubeCloneApp"
   },
   {
     id: 7,
@@ -56,6 +62,7 @@ export const Blogs = [
     date: "20 May 2022",
     imgSrc: "CV/videochatnew.jpeg",
     link: "https://video-calling-application-site.netlify.app/",
+    git:"https://github.com/pavithra-project-2022/VideoChatApp"
   },
 
   

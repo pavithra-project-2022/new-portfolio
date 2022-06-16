@@ -171,6 +171,27 @@ export const Link = (props) => {
   );
 };
 
+export const Deploy = (props) => {
+  return (
+    <svg
+      aria-hidden="true"
+      data-prefix="fas"
+      data-icon="link"
+      className="prefix__svg-inline--fa prefix__fa-link prefix__fa-w-16"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 256 256"
+      {...props}
+    >
+      <path
+        fill={props.fill}
+        d="M 85 35.661 c -2.762 0 -5 -2.239 -5 -5 V 10 H 59.339 c -2.762 0 -5 -2.239 -5 -5 s 2.238 -5 5 -5 H 85 c 2.762 0 5 2.239 5 5 v 25.661 C 90 33.422 87.762 35.661 85 35.661 z"
+      />
+    </svg>
+  );
+};
+
+
+
 export const Design = (props) => {
   return (
     <svg
