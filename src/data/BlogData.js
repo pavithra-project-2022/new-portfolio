@@ -78,7 +78,7 @@ export const Blogs = [
     name: "Cafe Management System Application",
     tags: ["angular", "scss", "nodejs","mysql"],
     date: "21 June 2022",
-    imgSrc: "CV/cafe.jpeg",
+    imgSrc: "CV/cafe1.jpeg",
     link: "https://angular-cafe-management.netlify.app/",
     git:"https://github.com/pavithra-project-2022/Angular-Cafe-Management-Frontend"
   },
