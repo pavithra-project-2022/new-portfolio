@@ -76,7 +76,7 @@ export const Blogs = [
   {
     id: 9,
     name: "Cafe Management System Application",
-    tags: ["re+angular", "scss", "nodejs","mysql"],
+    tags: ["angular", "scss", "nodejs","mysql"],
     date: "21 June 2022",
     imgSrc: "CV/cafe.jpeg",
     link: "https://angular-cafe-management.netlify.app/",
