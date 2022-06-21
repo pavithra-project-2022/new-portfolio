@@ -138,7 +138,7 @@ I value business or brand for which i'm creating, thus i enjoy bringing new idea
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React Js, Redux, Sass, Bootstrap, Tailwind, MongoDB, MySQL, Node Js, Firebase etc.
+Html, Css, Js, React Js, Angular, Redux, Sass, Bootstrap, MongoDB, MySQL, Node Js, Firebase etc.
 </p>
 </Description>
 
