@@ -73,6 +73,15 @@ export const Blogs = [
     link: "https://stackoverflow-app.netlify.app/",
     git:"https://github.com/pavithra-project-2022/StackOverFlow-Frontend"
   },
+  {
+    id: 9,
+    name: "Cafe Management System Application",
+    tags: ["re+angular", "scss", "nodejs","mysql"],
+    date: "21 June 2022",
+    imgSrc: "CV/cafe.jpeg",
+    link: "https://angular-cafe-management.netlify.app/",
+    git:"https://github.com/pavithra-project-2022/Angular-Cafe-Management-Frontend"
+  },
 
 
 ];
